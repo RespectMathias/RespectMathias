@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=5000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Det+er+mig,+der+bestemmer+her!" />
 </h1>
 
----
-
 <br>
 <h3 align="center">💼 Software Engineering Student from Denmark 🇩🇰</h3>
 
@@ -43,8 +41,6 @@ Engaging in strategy games, both for fun and to sharpen my strategic thinking.
 <br>
 <br>
 
----
-
 <br>
 </div>
 
@@ -66,7 +62,6 @@ Engaging in strategy games, both for fun and to sharpen my strategic thinking.
 <br>
 </div>
 
----
 
 <br>
 <h2 align="center">📫 Connect with Me</h2>
