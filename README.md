@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=5000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Det+er+mig,+der+bestemmer+her!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=5000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hej folkens!" />
 </h1>
 
 <br>
