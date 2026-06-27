@@ -1,5 +1,5 @@
 <br>
-<h3 align="center">💼 Software Engineering Student from Denmark 🇩🇰</h3>
+<h3 align="center">💼 Software Engineer Denmark 🇩🇰</h3>
 
 <div align="center">
 
